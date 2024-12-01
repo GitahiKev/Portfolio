@@ -322,7 +322,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px) {
     #header{
         /*---add small size image---*/
-        background-image: url(images/);
+        background-image: url(images/Main-profile-2.jpg);
     }
     .header-text{
         margin-top: 100%;
